@@ -7,11 +7,14 @@ This repo contains a collection of video language models-based works over the pa
 - [Towards Fast Adaptation of Pretrained Contrastive Models for Multi-channel Video-Language Retrieval](https://arxiv.org/abs/2206.02082) \
 Code : [https://github.com/XudongLinthu/upgradable-multimodal-intelligence](https://github.com/XudongLinthu/upgradable-multimodal-intelligence)
 
-- [Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/pdf/2205.10747.pdf) **(VidIL)** \
+- [Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747.pdf) **(VidIL)** \
 Code : [https://github.com/MikeWangWZHL/VidIL](https://github.com/MikeWangWZHL/VidIL)
 
 - [Invariant Grounding for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)  **(IGV)** \
 Code : [https://github.com/yl3800/IGV](https://github.com/yl3800/IGV)
+
+- [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://arxiv.org/abs/2112.06197) **(HQGA)** \
+Code : [https://github.com/doc-doc/HQGA](https://github.com/doc-doc/HQGA)
 
 
 ## Datasets
@@ -19,6 +22,13 @@ Code : [https://github.com/yl3800/IGV](https://github.com/yl3800/IGV)
 - [ACQUIRED: A Dataset for Answering Counterfactual Questions In Real-Life Videos](https://arxiv.org/abs/2311.01620) \
 Code : [https://github.com/PlusLabNLP/acquired](https://github.com/PlusLabNLP/acquired) (NOT RELEASED YET)
 
-- [From representation to reasoning: Towards both evidence and commonsense reasoning for video question-answering](https://arxiv.org/pdf/2205.14895.pdf) **(CausalVidQA)** \
+- [From representation to reasoning: Towards both evidence and commonsense reasoning for video question-answering](https://arxiv.org/abs/2205.14895.pdf) **(CausalVidQA)** \
 Code : [https://github.com/bcmi/Causal-VidQA](https://github.com/bcmi/Causal-VidQA)
+
+- [NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions](https://arxiv.org/abs/2105.08276.pdf) **(NeXT-QA)** \
+Code : [https://github.com/doc-doc/NExT-QA](https://github.com/doc-doc/NExT-QA)
+
+## Summary papers
+
+- [Video Question Answering: Datasets, Algorithms and Challenges](https://arxiv.org/abs/2203.01225.pdf)
 
